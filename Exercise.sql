@@ -67,3 +67,5 @@ update employee set salary = salary + salary * .178;
 
 -- Q8 update salary of perticular employee by 50%
 update employee set salary = salary + salary * .5 where id=10;
+
+-- Thank you
